@@ -1,0 +1,42 @@
+#header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #c2185b;
+    height: 2.8em;
+    width: 90vw;
+  }
+  
+  #title-block {
+    display:flex;
+    justify-content: left;
+    align-items: center;
+    margin-left: 10px;
+  }
+  
+  #search {
+    width: 400px; 
+    font-size: 14px;
+    height: 30px;
+      width: 300px;
+  }
+
+  #home-link {
+    text-decoration: none;
+    color: whitesmoke;
+  }
+
+  #search{
+    margin-left: -120px;
+  }
+  #navbar{
+    margin-right: 30px;
+  }
+
+  button{
+    border:none;
+    background-color: #c2185b;
+    color: white;
+  }
+
+  
