@@ -46,11 +46,3 @@ Transform the design of the existing `ViewTube` application for a rich user expe
 
 ##### Expected Output (Sidebar Opened)
 ![](./resources/view-tube-sidebar-opened.jpg)
-
-
-### Test the Solution Locally​
-Test the solution first locally and then on the `CodeReview` platform. Steps to test the code locally are:
-- From the command line terminal, set the path to the folder containing cloned boilerplate code.
-- Run the command `ng test` or `npm run test` to test the solution locally and ensure all the test cases pass.
-- Refactor the solution code if the test cases are failing and do a re-run.​
-- Finally, push the solution to git for automated testing on the CodeReview platform.
